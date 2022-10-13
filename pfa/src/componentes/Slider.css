@@ -1,0 +1,28 @@
+.ContaineR{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+  background-color: #2B2724;
+    position: relative;
+    overflow: hidden;
+
+   
+}
+
+.slide{
+    display: flex;
+    align-items: center;
+width: 100vw;
+height: 100vh;
+/*background-color:#${props=>bg};*/
+    }
+.ImgContainer{
+height: 100%;
+flex:1;
+    }
+.InfoContainer{
+flex:1;
+    }
+.Im{
+    height:118%;
+}
